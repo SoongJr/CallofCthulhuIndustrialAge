@@ -234,3 +234,8 @@ $RECYCLE.BIN/
 # Rimworld specific
 _PublisherPlus.xml
 lastrun.log
+
+# specific to this mod
+/Source/IndustrialAgeObjects/TestSaves/Config/LastPlayedVersion.txt
+/Source/IndustrialAgeObjects/TestSaves/Config/Knowledge.xml
+/Source/IndustrialAgeObjects/TestSaves/Config/KeyPrefs.xml
